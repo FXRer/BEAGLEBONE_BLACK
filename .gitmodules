@@ -1,3 +1,6 @@
 [submodule "LEDscape"]
 	path = LEDscape
 	url = https://github.com/osresearch/LEDscape.git
+[submodule "bbb"]
+	path = bbb
+	url = https://github.com/sysplay/bbb.git
